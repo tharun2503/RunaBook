@@ -1,3 +1,10 @@
+# RunaBook 📒
+
+A personalized Khatabook-style app for kirana stores to manage customers, vendors, transactions, reminders, PDFs, cloud backup, and more.
+
+## How to Run the Project
+*(Below is the original React Native setup guide)*
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
